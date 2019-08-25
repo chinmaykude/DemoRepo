@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2251" started-at="2019-08-25T09:21:35Z" finished-at="2019-08-25T09:21:37Z">
+    <groups>
+    </groups>
+    <test name="First Test" duration-ms="58" started-at="2019-08-25T09:21:35Z" finished-at="2019-08-25T09:21:35Z">
+      <class name="testcases.UserReg">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:testcases.UserReg@6fffcba5]" name="firstTest" duration-ms="14" started-at="2019-08-25T09:21:35Z" finished-at="2019-08-25T09:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- testcases.UserReg -->
+    </test> <!-- First Test -->
+    <test name="Second Test" duration-ms="3" started-at="2019-08-25T09:21:37Z" finished-at="2019-08-25T09:21:37Z">
+      <class name="testcases.Another">
+        <test-method status="PASS" signature="secondTest()[pri:0, instance:testcases.Another@4cdbe50f]" name="secondTest" duration-ms="0" started-at="2019-08-25T09:21:37Z" finished-at="2019-08-25T09:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- testcases.Another -->
+    </test> <!-- Second Test -->
+    <test name="Third Test" duration-ms="2" started-at="2019-08-25T09:21:37Z" finished-at="2019-08-25T09:21:37Z">
+      <class name="testcases.Login">
+        <test-method status="PASS" signature="thirdTest()[pri:0, instance:testcases.Login@c818063]" name="thirdTest" duration-ms="0" started-at="2019-08-25T09:21:37Z" finished-at="2019-08-25T09:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+      </class> <!-- testcases.Login -->
+    </test> <!-- Third Test -->
+  </suite> <!-- Suite -->
+</testng-results>
